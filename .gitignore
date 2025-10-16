@@ -1,0 +1,30 @@
+# Ficheros yaml
+*.yaml
+*.yml
+
+# Cache de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+Ficheros json
+*.json
+
+# Ficheros COBOL
+*.cbl
+*.cob
+*.cpy
+
+# Entornos virtuales
+env/
+venv/
+.venv/
+ENV/
+.ENV/
+# Archivos de configuración de IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
